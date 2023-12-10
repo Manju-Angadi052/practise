@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    
+    box-shadow: inset;
+    background-image: url(blue-surface-with-study-tools.jpg);
+    background-repeat: no-repeat;
+    background-clip: text;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+    
+.login{
+    border-radius: 4px 28px;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 5%;
+    font-size: 35px;
+    width: 35%;
+   
+    border: 18px solid antiquewhite;
+    background-color: antiquewhite;
+       
+   
+
+}
+
+.ox{
+    margin: 10px;
+    
+    background-color: antiquewhite;
+    
+    
+}
+label{
+    background-color:auto;
+    
+}
+
+input{
+    font-size: 35px;
+    background-color: rbg(228, 227, 225);
+}
+
+
+
+#password{
+    margin: 10px;
+    color: red;
+    
+}
+#password:hover{
+    
+    background-color: aqua;;
+}
+#usern{
+    margin: 10px;
+    
+    
+}
+#usern:hover{
+    background-color: aqua;;
+}
+#cpassword{
+    margin: 10px;
+    color: red;
+
+    
+}
+#cpassword:hover{
+    background-color: aqua;;
+    
+}
+.end{
+    
+    margin: 10px;
+    pointer-events: all;
+    border-radius: 8px;
+
+
+}
+.end:hover{
+    background-color: lightgreen;
+}
+.rend{ 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border-radius: 6px;
+    
+
+}
+.rend:hover{
+    background-color: red;
+}
+
+p{
+    text-align: center;
+    margin-top: 25px;
+    background-color: antiquewhite;
+    float: left;
+    margin-left: 37%;
+    font-size: 28PX;
+    border-radius: 3px 15px ;
+    
+    
+}
