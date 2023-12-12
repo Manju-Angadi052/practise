@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+
+}
+.container{
+    background-color: aqua;
+    border-radius: 18px;
+    border:8px solid blue;
+    min-height: 100vh;
+
+}
+.containt{
+    max-width: 900px;
+    margin: auto;
+    
+    
+
+
+}
+.top_section{
+    margin-top: 100px;
+    display: flex;
+    justify-items: auto;
+    justify-content: space-around;
+    align-items: first baseline;
+    
+    
+
+}
+.top_section h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: #ed0f0ff7;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+    
+    
+
+}
+.top_section h4{
+    font-size: 34px;
+    text-align: end;
+    justify-content: end;
+}
+.img_container{
+    border-radius: 58%;
+    overflow-wrap: normal;
+    overflow: hidden;
+    margin: 20px;
+    margin-left: 50px;
+}
+.image_container,img{
+    width: 400px;
+    height: 400px;
+}
+.middle_section{
+    margin-top: 50px;
+}
+.middle_section h1{
+    font-size: 85px;
+    font-weight: 100;
+    margin-bottom: 50px;
+}
+.middle_section p{
+    font-size: 25px;
+    color: black;
+    font-display: flex;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    text-align: justify;
+
+}
+.important_dates{
+    margin: 50px 0;
+    font-size: 25px;
+   
+}
+.important_dates h4{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.important_dates ul{
+    margin-left: 80px;
+    margin-bottom: 15px;
+    line-height: 40px;
+    
+    
+}
+footer{
+    font-size: 25px;
+    text-align: end;
+
+}
+footer a{
+    color: red;
+}
